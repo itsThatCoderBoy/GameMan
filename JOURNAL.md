@@ -1,3 +1,10 @@
+---
+title: "The GameMan Control Board"
+author: "itsThatCoderBoy"
+description: "A board that slots into the GameMan like a Game Cartridge!"
+created_at: "2026-11-23"
+---
+
 # Nov. 23 '26 - Did Research, Started Repos, Started Journal
 ***healp meh***
 Boy oh boy, another project starting! Now, my previous project didn't turn out so well - the PCB didn't work at all and I realise there were some major flaws with both my design and the idea itself. However, I have learned a lot from that process, and I have devised (mwahaha) an evil scheme:
@@ -9,3 +16,4 @@ Boy oh boy, another project starting! Now, my previous project didn't turn out s
 So far today I have started on the schematic, as well as creating the repo and forge project.
 
 **Total time spent today: ~1 Hour**
+![Initial Schematic](Images/Initial%20Schem.png)
