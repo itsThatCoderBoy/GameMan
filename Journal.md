@@ -6,5 +6,6 @@ Boy oh boy, another project starting! Now, my previous project didn't turn out s
 3. Focus on DRC & ERC to make sure the PCBs will work the first time!
 4. During all of this, finally start the Hack Club at school!
 5. (Hopefully) Working control board! (Pleaseeee)
+So far today I have started on the schematic, as well as creating the repo and forge project.
 
-**Total time spent today: ~ Hours**
+**Total time spent today: ~1 Hour**
