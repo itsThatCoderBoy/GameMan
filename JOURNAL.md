@@ -16,5 +16,5 @@ Boy oh boy, another project starting! Now, my previous project didn't turn out s
 5. (Hopefully) Working control board! (Pleaseeee)
 So far today I have started on the schematic, as well as creating the repo and forge project.
 
-**Total time spent today: ~1 Hour**
+**Total time spent: ~1 Hour**
 ![Initial Schematic](Images/Initial%20Schem.png)
